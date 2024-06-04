@@ -88,13 +88,13 @@ namespace BattleShip.UI
             {
                 Console.Write("- " + ShipType + ": ");
                 result = GetLocation(Console.ReadLine());
-                if (result is null) ;
+                if (result == null) ;
                 else return result;
                 
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Invalid input. Please input location and direiction. Ex:) a2, r");
                 Console.ForegroundColor = ConsoleColor.White;
-            }while(result is null);
+            }while(result == null);
             return result;
         }
 
