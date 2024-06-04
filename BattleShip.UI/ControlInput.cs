@@ -80,7 +80,7 @@ namespace BattleShip.UI
             }
 
         }
-
+        // test commit
         public static PlaceShipRequest GetLocationFromUser(string ShipType)
         {
             PlaceShipRequest result = null;
