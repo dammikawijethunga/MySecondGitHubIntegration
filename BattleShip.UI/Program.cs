@@ -12,6 +12,7 @@ namespace BattleShip.UI
         {
             GameFlow flow = new GameFlow();
             flow.Start();
+            Console.WriteLine("test");
         }
     }
 }
