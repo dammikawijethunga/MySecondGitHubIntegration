@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSytem8", "PayrollSys
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSytem9", "PayrollSys - Copy (9)\PayrollSytem\PayrollSytem9.csproj", "{7E88B13D-7590-4E50-85D6-C92BC7D717A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayerApp", "MusicPlayerApp\MusicPlayerApp.csproj", "{83882776-45ED-4777-A0C9-011FCA8DBC55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{7E88B13D-7590-4E50-85D6-C92BC7D717A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E88B13D-7590-4E50-85D6-C92BC7D717A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E88B13D-7590-4E50-85D6-C92BC7D717A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83882776-45ED-4777-A0C9-011FCA8DBC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83882776-45ED-4777-A0C9-011FCA8DBC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83882776-45ED-4777-A0C9-011FCA8DBC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83882776-45ED-4777-A0C9-011FCA8DBC55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
