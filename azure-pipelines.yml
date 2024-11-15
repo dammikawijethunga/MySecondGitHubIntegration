@@ -6,6 +6,7 @@
 trigger:
 - main
 - TestBranch2
+- 40070
 
 #pool:
 #  vmImage: 'windows-latest'
